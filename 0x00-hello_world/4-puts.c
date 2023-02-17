@@ -3,10 +3,10 @@
  * main -print a line of code using puts
  *
  * Return:0
- *
  */
+
 int main(void)
 {
-	puts("\"programming is like building  a multilingul puzzle");
+	puts(\"programming is like building  a multilingul puzzle");
 	return (0);
 }
